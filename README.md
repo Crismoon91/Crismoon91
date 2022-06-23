@@ -18,3 +18,7 @@ He compaginado el ciclo superior de DAW tanto con la formación FrontEnd de Hibe
   <li><strong>Linkedin: </strong>https://www.linkedin.com/in/cristina-luna-clares/</li>
   <li><strong>Email: </strong> cristina.luna.clares@gmail.com</li>
  </ul>
+
+<p align="center">
+<img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif"></img>
+</p>
